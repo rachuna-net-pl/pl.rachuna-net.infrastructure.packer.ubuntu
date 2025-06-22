@@ -1,0 +1,6 @@
+.vscode/
+downloaded_iso_path/*
+!downloaded_iso_path/.gitkeep
+http/*
+!http/.gitkeep
+.env
